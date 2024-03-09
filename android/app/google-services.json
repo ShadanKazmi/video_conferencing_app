@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4939435867",
+    "project_id": "video-conferencing-9601f",
+    "storage_bucket": "video-conferencing-9601f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4939435867:android:262bdd0e3106b172c4947e",
+        "android_client_info": {
+          "package_name": "com.shadan.video_conferencing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYT57wLRIbkNxdSR73jn7nwVGy-3hGD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
