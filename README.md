@@ -28,4 +28,6 @@ A video conferencing app made to ease work from home users, whether it be for sc
 
 ![image](https://github.com/ShadanKazmi/video_conferencing_app/assets/125872053/c45c2562-afc6-47da-b624-e1d9a8ab2548)
 
+![image](https://github.com/ShadanKazmi/video_conferencing_app/assets/125872053/5ff65a44-861e-4f68-862a-e33131dc996e)
+
 
