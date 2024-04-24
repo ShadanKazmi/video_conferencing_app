@@ -1,16 +1,21 @@
 # video_conferencing_app
+A video conferencing app made to ease work from home users, whether it be for school, office or normal chats. Developed in Flutter with proper frontend and backend modules.
 
-A new Flutter project.
+Features :
 
-## Getting Started
+Voice Calling
 
-This project is a starting point for a Flutter application.
+Video Calling
 
-A few resources to get you started if this is your first Flutter project:
+Create meeting room
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Create instant meeting with code to share with your colleagues
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User friendly UI
+
+
+
+
+## Images
+
+
