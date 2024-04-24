@@ -1,17 +1,17 @@
 # video_conferencing_app
 A video conferencing app made to ease work from home users, whether it be for school, office or normal chats. Developed in Flutter with proper frontend and backend modules.
 
-Features :
+# Features :
 
-Voice Calling
+-Voice Calling
 
-Video Calling
+-Video Calling
 
-Create meeting room
+-Create meeting room
 
-Create instant meeting with code to share with your colleagues
+-Create instant meeting with code to share with your colleagues
 
-User friendly UI
+-User friendly UI
 
 
 
